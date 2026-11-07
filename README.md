@@ -8,16 +8,14 @@ Carteles de precio Apple y Falabella para Falabella Costanera, listos para impri
 
 | Archivo | Para qué sirve |
 | --- | --- |
-| `index.html` | La App |
+| `index.html` | La App (incluye los dos Excel base para la descarga con precios) |
 | `datos/plantillas.json` | Diseño exacto de cada hoja del Excel |
 | `datos/fotos.json` | Fotos de los equipos de Precios Falabella |
-| `excel/price-ticket-base.txt` | Excel Price Ticket NPI Q1 FY27 2.0, para descargar con precios |
-| `excel/apple-shop-core-base.txt` | Excel New Price Ticket FY27 (Apple Shop Core), para descargar con precios |
 | `.nojekyll` | Hace que GitHub Pages publique los archivos tal cual |
 
 ## Publicar en GitHub Pages
 
-1. Sube todo el contenido de esta carpeta a la raíz del repositorio (incluidas las carpetas `datos` y `excel`).
+1. Sube todo el contenido de esta carpeta a la raíz del repositorio (incluida la carpeta `datos`).
 2. En el repositorio: **Settings → Pages → Branch: main / (root) → Save**.
 3. Después de 1 o 2 minutos la App queda en `https://<usuario>.github.io/<repositorio>/`.
 
