@@ -2,7 +2,7 @@
 
 Carteles de precio Apple y Falabella para Falabella Costanera, listos para imprimir con el mismo diseño y márgenes del Excel.
 
-**Secciones:** Price Tickets Apple (lanzamiento NPI destacado, iPhone, Mac, iPad, Apple Watch, HomePod, AirPods y Apple Shop Core Falabella Costanera) · Precios Falabella · Pestañas evento Falabella · Calculadora Falabella.
+**Secciones:** Price Tickets Apple (lanzamiento NPI destacado, iPhone, Mac, iPad, Apple Watch, HomePod, AirPods y Apple Shop Core Falabella Costanera) · Precios Falabella · Pestañas evento Falabella · Flejes Accesorios · Calculadora Falabella.
 
 ## Archivos
 
