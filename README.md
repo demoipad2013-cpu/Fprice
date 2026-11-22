@@ -13,6 +13,7 @@ Carteles de precio Apple y Falabella para Falabella Costanera, listos para impri
 | `datos/fotos.json` | Fotos de los equipos de Precios Falabella |
 | `datos/xl-main.txt` | Excel base Price Ticket NPI (para "Descargar Excel") |
 | `datos/xl-asc.txt` | Excel base Apple Shop Core (para "Descargar Excel") |
+| `datos/xl-mbp14m6.txt` | Excel base MacBook Pro 14" M6 de Apple Shop Core |
 | `.nojekyll` | Hace que GitHub Pages publique los archivos tal cual |
 
 ## Publicar en GitHub Pages
